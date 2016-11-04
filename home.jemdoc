@@ -1,0 +1,22 @@
+# jemdoc:menu{MENU}{home.html}, showsource
+= Help with stuff 
+McGill University\n 
+[http://www.mcgill.ca/mathstat/ Department of Mathematics and Statistics]
+
+This is a first draft of the website.
+
+Test Latex.
+$x^2+y^2=z^2$
+~~~
+{}{}
+Code block
+~~~
+
+
+
+
+== Things to be done 
+- Agree on github arrangement.
+- Figure out Jupyter R notebook/ Rmarkdown. 
+
+

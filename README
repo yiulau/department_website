@@ -1,0 +1,9 @@
+Must use python 2 instead of python 3.
+After changes are made to a jemdoc file. Use jemodc name_of_file.jemdoc (can skip .jemdoc postscript) to update html. 
+
+Use jemdoc *.jemdoc to update all jemdoc's in directory.
+
+The numerical_code directory stores code demonstrating statistical computation or otherwise.
+
+
+
